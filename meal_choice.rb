@@ -1,5 +1,5 @@
-def meal_choice(name, food = "meat")
-  puts "Hello #{name}, do you want #{food}"
+def meal_choice(food = "meat")
+  puts "Today we have #{food}"
 end
 
 
