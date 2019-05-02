@@ -1,5 +1,5 @@
 def meal_choice(food = "meat")
-  puts "Today we have #{food}"
+  
 end
 
 
